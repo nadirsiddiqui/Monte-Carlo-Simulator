@@ -1,0 +1,21 @@
+test_1_jackpot (__main__.TestAnalyzerMethods)
+This test assures that the jackpot method stores only rolls that ... ok
+test_2_combo (__main__.TestAnalyzerMethods)
+This test assures that the combo method properly stores and displays ... ok
+test_3_faces (__main__.TestAnalyzerMethods)
+This test assures that the faces method properly stores and displays ... ok
+test_1_change_weight (__main__.TestDieMethods)
+This test assures that the change weight method assigns weights correctly. ... ok
+test_2_roll (__main__.TestDieMethods)
+This test assures that the roll method rolls the dice the correct ... ok
+test_3_show (__main__.TestDieMethods)
+This test assures that the show method properly stores and displays ... ok
+test_1_play (__main__.TestGameMethods)
+This test assures that the play method rolls all die the right ... ok
+test_2_show (__main__.TestGameMethods)
+This test assures that the show method properly stores and displays ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.087s
+
+OK
